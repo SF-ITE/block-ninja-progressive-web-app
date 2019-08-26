@@ -1,53 +1,96 @@
-{
-  "name": "WebFlix Progressive Web App",
-  "short_name": "WebFlix",
-  "description": "A very cool web app powered by zUIx.js",
-  "theme_color": "#121212",
-  "background_color": "#1a1a1a",
-  "display": "standalone",
-  "Scope": "./",
-  "start_url": "index.html",
-  "icons": [
-    {
-      "src": "favicon72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon96.png",
-      "sizes": "96x96",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon128.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon144.png",
-      "sizes": "144x144",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon152.png",
-      "sizes": "152x152",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon384.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "favicon512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "splash_pages": null
-}
+{"dir" : "ltr",
+    "lang" : "English",
+    "name" : "Block Ninja: a silly little game by Eric Errickson in less than 8Kb.",
+    "scope" : "/",
+    "display" : "standalone",
+    "start_url" : "https://elated-engelbart-18cb33.netlify.com/",
+    "short_name" : "Block Ninja",
+    "theme_color" : "#2c3f51",
+    "description" : "Block Ninja is written in HTML 5, CSS, and .js. It is less than 8Kb and is contained in one HTML file.",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://elated-engelbart-18cb33.netlify.com/Favicon.ico",
+            "sizes": "16x16 32x32"
+        },
+        {
+            "src": "https://elated-engelbart-18cb33.netlify.com/favicon-152.png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "44x44"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "48x48"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1240x600"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "300x300"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "150x150"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "88x88"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "24x24"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "50x50"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "620x300"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "192x192"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "144x144"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "96x96"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "72x72"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "36x36"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "180x180"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "120x120"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "76x76"
+        }
+    ]}
